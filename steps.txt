@@ -1,0 +1,13 @@
+clean up our basic projects
+installing necessary packages
+   1. bootstrap
+   2. react-router-dom
+   3. react-loader-spinner
+   4. axiosn
+
+setUp pages
+    1.Home Page
+    2.About pages
+    
+
+set up react router dom

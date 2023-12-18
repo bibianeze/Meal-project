@@ -1,0 +1,6 @@
+.hero-wrapper{
+  background-image: url("./assets/bgfruit.jpg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
